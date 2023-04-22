@@ -1,0 +1,8 @@
+Son tahta durumu:
+3 9        
+0 6       1
+1 0 5   9 0
+0 4 8   2 9
+2 0 5 8 5 4
+
+Toplam Puan : 28
